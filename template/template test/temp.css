@@ -1,0 +1,74 @@
+@charset "utf-8";
+/* CSS Document */
+.container
+{ width:1200px;
+ height:auto;
+ background-color:#09F;
+ margin-left:auto;
+ margin-right:auto;
+}
+.topbar
+{ width:1000px;
+ height:30px;
+ background-color:#0C9;
+}
+.menu
+{ width:auto;
+ height:40px;
+ background-color:#099;
+}
+.header
+{ width:1200px;
+ height:250px;
+ background-color:#9C3;
+
+}
+.div
+{ width:900px;
+height:200px;
+ background-color:#996;
+ margin-left:auto;
+ margin-right:auto;
+}
+.sidebar
+{ width:300px;
+ height:500px;
+ background-color:#096;
+ float:left;
+}
+.content1
+{ width:450px;
+ height:250px;
+ background-color:#C03;
+ float: left;
+}
+.content2
+{ width:450px;
+ height:250px;
+ background-color: #99F;
+ float:left
+}
+.footer
+{width:auto;
+height:150px;
+background-color:#C36;
+clear:both;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
